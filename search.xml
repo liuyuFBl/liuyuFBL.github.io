@@ -21,7 +21,7 @@
       <link href="/posts/50a2b841.html"/>
       <url>/posts/50a2b841.html</url>
       
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><blockquote><p>1.本地运行三部曲 :<br>            hexo cl<br>            hexo g<br>            hexo s<br>2.写好文章了提交github:            </p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><blockquote><p>1.本地运行三部曲 :<br>            hexo cl<br>            hexo g<br>            hexo s<br>2.写好文章了提交github:<br>            hexo cl<br>            hexo g<br>            hexo d    </p></blockquote>]]></content>
       
       
       
